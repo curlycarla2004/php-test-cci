@@ -2,7 +2,7 @@
 <html>
    <head>
       <meta charset="utf-8" />
-      <title>Ma première page PHP</title>
+      <title>Ma première page PHP test</title>
    </head>
 
    <body>
